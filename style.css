@@ -1,0 +1,20 @@
+h1 {
+
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    color: white;
+    font-size: 40px;
+	font-family: "Comic Sans MS", cursive, sans-serif
+}
+
+body {
+
+    background-color: black;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+video{
+margin-left: 10%;
+}
